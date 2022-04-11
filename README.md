@@ -1,6 +1,11 @@
 # Letter
 
-**TODO: Add description**
+
+# Run Game
+```
+  mix start
+```
+
 
 ## Installation
 
